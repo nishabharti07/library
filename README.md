@@ -1,4 +1,5 @@
-# libraryThis project is a Library Management System API built using Node.js and Express.
+# library
+This project is a Library Management System API built using Node.js and Express.
 It allows users to perform CRUD operations (Create, Read, Update, Delete) on books using RESTful principles.
 
 🔹 Features
